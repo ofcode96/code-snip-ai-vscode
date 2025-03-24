@@ -3,7 +3,7 @@
   "displayName": "Code Snip Ai",
   "description": "Generate Visual code snippets from selected code ",
   "publisher": "ofcode",
-  "version": "0.0.1",
+  "version": "1.0.10",
   "pricing": "Free",
   "engines": {
     "vscode": "^1.98.0"
